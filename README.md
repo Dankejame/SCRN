@@ -1,2 +1,4 @@
 # SCRN
 SCRN: Official implementation of Single-cell Gene Regulatory Network Identification in Alzheimer's Disease.
+
+The code is currently being organized and is expected to be made public before the end of June.

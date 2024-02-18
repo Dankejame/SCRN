@@ -66,15 +66,3 @@ Required python libraries: gensim and scipy; all python libraries required by py
 
 If you want to enable embeddings for link prediction, please install the network embedding software 'node2vec' in "software/" (if the included one does not work).
 
-Reference
-------------
-If you find the code useful, please cite our paper:
-
-@inproceedings{zhang2018link,
-  title={Link prediction based on graph neural networks},
-  author={Zhang, Muhan and Chen, Yixin},
-  booktitle={Advances in Neural Information Processing Systems},
-  pages={5165--5175},
-  year={2018}
-}
-Muhan Zhang, Washington University in St. Louis muhan@wustl.edu 9/5/2018
